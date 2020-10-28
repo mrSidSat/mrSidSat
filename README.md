@@ -9,11 +9,11 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on anything as beautiful as javscript :love_you_gesture:
 - 💬 Ask me about WEB DEV
-- 📫 How to reach me: Email- [mrSidSat](sidsat477501@gmail.com)
+- 📫 How to reach me: Email- *_sidsat477501@gmail.com_*
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: JavaScript is quite toxicating :smile:
 - :hugs: : Feel free to communicate with me any time...
 
 ![mrSidSat's github stats](https://github-readme-stats.vercel.app/api?username=mrSidSat)
 
-{{ LANGUAGE_TEMPLATE_START }}
+${{ LANGUAGE_TEMPLATE_START }}
