@@ -1,4 +1,4 @@
-### Hi there Siddhesh here 👋:wave:
+### Hi Siddhesh here 👋:wave:
 
 <!--
 **mrSidSat/mrSidSat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
