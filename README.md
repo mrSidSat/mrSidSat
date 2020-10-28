@@ -18,7 +18,7 @@ Here are some ideas to get you started:-->
 ![mrSidSat's github stats](https://github-readme-stats.vercel.app/api?username=mrSidSat&show_icons=true&)
 
 ### Language Expo:-
-![mrSidSat's Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrSidSat&show_icons=true)
+![mrSidSat's Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrSidSat&show_icons=true&hide=html&layout=compact)
 
 ### MY Favourite Tools...
 <img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
