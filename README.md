@@ -11,7 +11,7 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about WEB DEV
 - 📫 How to reach me: Email- *_sidsat477501@gmail.com_*
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: JavaScript is quite toxicating :smile:
+- ⚡ Fun fact: :smile:
 - :hugs: : Feel free to communicate with me any time...
 
 ### MY GITHUB STATS..
