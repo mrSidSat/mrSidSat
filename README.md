@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on some interesting code
-- 📫 How to reach me: Email- *_sidsat477501@gmail.com_*
+- 📫 How to reach me: Email- *_strengthwithin7401@gmail.com_*
 ### MY GITHUB STATS..
 ![mrSidSat's github stats](https://github-readme-stats.vercel.app/api?username=mrSidSat&show_icons=true&)
 
